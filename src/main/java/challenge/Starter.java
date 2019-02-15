@@ -9,5 +9,8 @@ public class Starter {
         System.out.println(main.q1());
         System.out.println(main.q2());
         System.out.println(main.q3());
+        System.out.println(main.q4());
+        System.out.println(main.q5());
+        System.out.println(main.q6());
     }
 }
